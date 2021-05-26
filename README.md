@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bisher
-- 👀 I’m interested in secuirty
-- 🌱 I’m currently learning computer vision basics
+- 💙 Junior Flutter Dev 
 - 📫 How to reach me ---> Twitter: @8isher
 
 
